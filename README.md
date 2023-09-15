@@ -20,7 +20,7 @@
 
 <h2>🌱 Estou atualmente aprendendo:</h2>
 
-  - [Microsoft Windows Defender and Firewall for Beginners](https://www.coursera.org/projects/microsoft-windows-defender-and-firewall-for-beginners)
+  - [Microsoft Windows Defender and Firewall for Beginners - IBM Security](https://www.coursera.org/projects/microsoft-windows-defender-and-firewall-for-beginners)
   - [SOC Level 1 - TryHackMe](https://tryhackme.com/path/outline/soclevel1)
 
 
