@@ -2,6 +2,11 @@
 
 <h2>⚡ Um pouco sobre mim:</h2>
 
+- Olá! Me chamo Lucas e sou formado em fonoaudiologia. Apaixonado por tecnologia desde criança, hoje busco o sonho de crescer e me especializar como profissional na tecnologia da informação. Atualmente, busco minha primeira oportunidade na área para exercer meu aprendizado. Através da fonoaudiologia atuei com tecnologias auditivas, onde foi possível desenvolver características especiais como comunicação eficaz, desempenho de trabalho em equipe, autogestão, raciocínio para resolução de problemas, além de desempenhar papel em projetos de conscientização em saúde, com foco em atendimento ao cliente e assistência técnica no que rege às tecnologias auditivas. Hoje eu me considero um amante da tecnologia, com foco em cibersegurança, onde direciono meus estudos para a área, e sigo sempre motivado a aprender e entender todos os aspectos da nossa tecnologia contemporânea e como a mesma se desenvolve.
+
+
+<h2>🤔 Objetivo desta página:</h2>
+
 - Em uma jornada de aprendizagem, é comum nos desafiarmos e realizarmos atividades para praticarmos o que aprendemos. Este perfil tem como objetivo demonstrar alguns desses processos, por aqui você pode me acompanhar em minha jornada de aprendizado rumo à evolução pessoal e profissional dentro da área da tecnologia e Cibersegurança. Vamos nessa!
 
 
@@ -20,7 +25,6 @@
 
 <h2>🌱 Estou atualmente aprendendo:</h2>
 
-  - [Microsoft Windows Defender and Firewall for Beginners - IBM Security](https://www.coursera.org/projects/microsoft-windows-defender-and-firewall-for-beginners)
   - [SOC Level 1 - TryHackMe](https://tryhackme.com/path/outline/soclevel1)
 
 
