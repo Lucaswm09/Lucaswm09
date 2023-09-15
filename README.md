@@ -6,7 +6,7 @@
 - <b>Linux</b>
   - [Praticando permissões em linha de comando Linux](https://github.com/Lucaswm09/Projetos/blob/main/Permiss%C3%B5es_em_Linux.md)
 - <b>SQL</b>
-  - [Praticando buscas e filtros no SQL](https://github.com/Lucaswm09/projects/blob/main/Filtros_SQL.pdf)
+  - [Praticando buscas e filtros no SQL](https://github.com/Lucaswm09/Projetos/blob/main/Filtros_SQL.md)
 
 <h2>📄 Certificados:</h2>
 
