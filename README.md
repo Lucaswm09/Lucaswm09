@@ -1,7 +1,7 @@
 <h1>Olá, eu sou o Lucas! <br/><a href="https://www.linkedin.com/in/lucasmend0nca/">Estudante de Tecnologia (Foco em Cibersegurança)</a>
 
 
-<h2>👨‍💻 Projetos em Cibersegurança:</h2>
+<h2>👨‍💻 Projetos:</h2>
 
 - <b>Linux</b>
   - [Praticando permissões em linha de comando Linux](https://github.com/Lucaswm09/projects/blob/main/Permiss%C3%B5es_em_Linux.pdf)
