@@ -1,5 +1,10 @@
 <h1>Olá, eu sou o Lucas! <br/><a href="https://www.linkedin.com/in/lucasmend0nca/">Estudante de Tecnologia (Foco em Cibersegurança)</a>
 
+<h2>⚡ Um pouco sobre mim:</h2>
+
+- Em uma jornada de aprendizagem, é comum nos desafiarmos e realizarmos atividades para praticarmos o que aprendemos. Este perfil tem como objetivo demonstrar alguns desses processos, por aqui você pode me acompanhar em minha jornada de aprendizado rumo à evolução pessoal e profissional dentro da área da tecnologia e Cibersegurança. Vamos nessa!
+
+
 
 <h2>👨‍💻 Projetos:</h2>
 
