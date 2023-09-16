@@ -32,6 +32,7 @@
 <h2>🌱 Estou atualmente aprendendo:</h2>
 
   - [SOC Level 1 - TryHackMe](https://tryhackme.com/path/outline/soclevel1)
+  - Em breve, novo projeto voltado para SIEM (Em elaboração)
 
 
 <h2> 🤳 Conecte-se comigo:</h2>
