@@ -19,6 +19,8 @@
   - [Praticando buscas e filtros no SQL](https://github.com/Lucaswm09/Projetos/blob/main/Filtros_SQL.md)
 - <b>Análise de pacotes</b>
   - [Analisando pacotes com tcpdump, Wireshark e Shell Script](https://github.com/Lucaswm09/Projetos/blob/main/Analisando_pacotes_com_tcpdump_wireshark_shellscript.md)
+- <b>Atualizando arquivo com Python</b>
+  - [Atualização de um arquivo utilizando algorítmo em Python](https://github.com/Lucaswm09/Projetos/blob/main/Atualizando_arquivo_com_algoritmo_em_Python.md)
 
 <h2>📄 Certificados:</h2>
 
