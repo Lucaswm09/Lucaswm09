@@ -24,6 +24,8 @@
 
 - [Google Cybersecurity Certificate](https://coursera.org/verify/professional-cert/V4P3T2M2ETEZ)
 - [Fundamentos de Governança de TI com COBIT 2019](https://www.udemy.com/certificate/UC-c033cde2-c0ea-47de-8136-de61075900cd/)
+- [Microsoft Windows Defender and Firewall for Beginners](https://www.coursera.org/account/accomplishments/certificate/8JDUJ8H7WFHW)
+- [Analyze Network Traffic with TCPDump](https://coursera.org/verify/UBHB5QCV8QHY)
 
 <h2>🌱 Estou atualmente aprendendo:</h2>
 
