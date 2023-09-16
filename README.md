@@ -16,7 +16,7 @@
 - <b>Linux</b>
   - [Praticando permissões em linha de comando Linux](https://github.com/Lucaswm09/Projetos/blob/main/Permiss%C3%B5es_em_Linux.md)
 - <b>SQL</b>
-  - [Praticando buscas e filtros no SQL](https://github.com/Lucaswm09/Projetos/blob/main/Filtros_SQL.md)
+  - [Praticando buscas e filtros com SQL](https://github.com/Lucaswm09/Projetos/blob/main/Filtros_SQL.md)
 - <b>Análise de pacotes</b>
   - [Analisando pacotes com tcpdump, Wireshark e Shell Script](https://github.com/Lucaswm09/Projetos/blob/main/Analisando_pacotes_com_tcpdump_wireshark_shellscript.md)
 - <b>Atualizando arquivo com Python</b>
