@@ -1,8 +1,4 @@
-<h1>Olá, eu sou o Lucas! <br/><a href="https://www.linkedin.com/in/lucasmend0nca/">Estudante de Tecnologia (Foco em Cibersegurança)</a>
-
-<h2>⚡ Um pouco sobre mim:</h2>
-
-- Olá! Me chamo Lucas e sou formado em fonoaudiologia. Apaixonado por tecnologia desde criança, hoje busco o sonho de crescer e me especializar como profissional na tecnologia da informação. Atualmente, busco minha primeira oportunidade na área para exercer meu aprendizado. Através da fonoaudiologia atuei com tecnologias auditivas, onde foi possível desenvolver características especiais como comunicação eficaz, desempenho de trabalho em equipe, autogestão, raciocínio para resolução de problemas, além de desempenhar papel em projetos de conscientização em saúde, com foco em atendimento ao cliente e assistência técnica no que rege às tecnologias auditivas. Hoje eu me considero um amante da tecnologia, com foco em cibersegurança, onde direciono meus estudos para a área, e sigo sempre motivado a aprender e entender todos os aspectos da nossa tecnologia contemporânea e como a mesma se desenvolve.
+<h1>Olá, eu sou o Lucas! <br/><a href="https://www.linkedin.com/in/lucasmend0nca/">Estudante de Tecnologia (Foco em Suporte em T.I e Cibersegurança)</a>
 
 
 <h2>🤔 Objetivo desta página:</h2>
