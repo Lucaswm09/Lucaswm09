@@ -28,7 +28,7 @@
 <h2>🌱 Estou atualmente aprendendo:</h2>
 
   - [SOC Level 1 - TryHackMe](https://tryhackme.com/path/outline/soclevel1)
-  - Em breve, novo projeto voltado para Active Directory (Em elaboração)
+  - [Google Professional Certification in IT Support](https://grow.google/certificates/it-support/#?modal_active=none)
 
 
 <h2> 🤳 Conecte-se comigo:</h2>
