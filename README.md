@@ -29,6 +29,7 @@
 
   - [SOC Level 1 - TryHackMe](https://tryhackme.com/path/outline/soclevel1)
   - [Google Professional Certification in IT Support](https://grow.google/certificates/it-support/#?modal_active=none)
+  - Preparatório para CompTIA Security+ Certification
 
 
 <h2> 🤳 Conecte-se comigo:</h2>
