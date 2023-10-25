@@ -1,4 +1,4 @@
-<h1>Olá, eu sou o Lucas! <br/><a href="https://www.linkedin.com/in/lucasmend0nca/">Estudante de Tecnologia (Foco em Suporte em T.I e Cibersegurança)</a>
+<h1>Olá, eu sou o Lucas! <br/><a href="https://www.linkedin.com/in/lucasmend0nca/">Estudante de Tecnologia (Foco em Cibersegurança)</a>
 
 
 <h2>🤔 Objetivo desta página:</h2>
