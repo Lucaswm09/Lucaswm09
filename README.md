@@ -20,6 +20,7 @@
 
 <h2>📄 Certificados:</h2>
 
+- [Comptia Security+](https://www.credly.com/badges/dc7e8e86-676e-4a8b-9c15-b4a4559a75c4/linked_in_profile)
 - [Google Cybersecurity Certificate](https://coursera.org/verify/professional-cert/V4P3T2M2ETEZ)
 - [Fundamentos de Governança de TI com COBIT 2019](https://www.udemy.com/certificate/UC-c033cde2-c0ea-47de-8136-de61075900cd/)
 - [Microsoft Windows Defender and Firewall for Beginners](https://www.coursera.org/account/accomplishments/certificate/8JDUJ8H7WFHW)
@@ -29,7 +30,7 @@
 
   - [SOC Level 1 - TryHackMe](https://tryhackme.com/path/outline/soclevel1)
   - [Google Professional Certification in IT Support](https://grow.google/certificates/it-support/#?modal_active=none)
-  - Preparatório para CompTIA Security+ Certification
+  - Preparatório para EXIN ISFS ISO 27001
 
 
 <h2> 🤳 Conecte-se comigo:</h2>
