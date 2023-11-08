@@ -1,4 +1,4 @@
-<h1>Olá, eu sou o Lucas! <br/><a href="https://www.linkedin.com/in/lucasmend0nca/">Estudante de Tecnologia (Foco em Cibersegurança)</a>
+<h1>Olá, eu sou o Lucas! <br/><a href="https://www.linkedin.com/in/lucasmend0nca/">Estudante de Tecnologia em Cibersegurança</a>
 
 
 <h2>🤔 Objetivo desta página:</h2>
@@ -30,7 +30,6 @@
 <h2>🌱 Estou atualmente aprendendo:</h2>
 
   - [SOC Level 1 - TryHackMe](https://tryhackme.com/path/outline/soclevel1)
-  - [Google Professional Certification in IT Support](https://grow.google/certificates/it-support/#?modal_active=none)
   - Preparatório para EXIN ISFS ISO 27001
 
 
