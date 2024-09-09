@@ -27,12 +27,6 @@
 - [Analyze Network Traffic with TCPDump](https://coursera.org/verify/UBHB5QCV8QHY)
 - [Fundamentos em Redes](https://certs.ibsec.com.br/?cert_hash=3e52a87b198470b1)
 
-<h2>🌱 Estou atualmente aprendendo:</h2>
-
-  - [SOC Level 1 - TryHackMe](https://tryhackme.com/path/outline/soclevel1)
-  - Preparatório para EXIN ISFS ISO 27001
-
-
 <h2> 🤳 Conecte-se comigo:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
