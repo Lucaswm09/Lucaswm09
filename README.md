@@ -1,9 +1,9 @@
-<h1>Olá, eu sou o Lucas! <br/><a href="https://www.linkedin.com/in/lucasmend0nca/">Estudante de Tecnologia em Cibersegurança</a>
+<h1>Olá, eu sou o Lucas! <br/><a href="https://www.linkedin.com/in/lucasmend0nca/">Analista de Cibersegurança</a>
 
 
 <h2>🤔 Objetivo desta página:</h2>
 
-- Em uma jornada de aprendizagem, é comum nos desafiarmos e realizarmos atividades para praticarmos o que aprendemos. Este perfil tem como objetivo demonstrar alguns desses processos, por aqui você pode me acompanhar em minha jornada de aprendizado rumo à evolução pessoal e profissional dentro da área da tecnologia e Cibersegurança. Vamos nessa!
+- Em uma jornada de aprendizagem, é comum nos desafiarmos e realizarmos atividades para praticarmos o que aprendemos. Este perfil tem como objetivo demonstrar alguns dos exercícios práticos realizados por mim.
 
 
 
