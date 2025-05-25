@@ -17,7 +17,6 @@ Em uma jornada de aprendizagem, é comum nos desafiarmos e realizarmos atividade
 <h2> 🤳 Conecte-se comigo:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://linkedin.com/in/lucasmend0nca
 
