@@ -1,8 +1,10 @@
 Em uma jornada de aprendizagem, é comum nos desafiarmos e realizarmos atividades para praticarmos o que aprendemos. Este perfil tem como objetivo demonstrar alguns dos exercícios práticos realizados por mim.
 
 
-<h2>👨‍💻 Projetos:</h2>
+<h2>👨‍💻 Prática:</h2>
 
+- <b>Home Lab</b>
+  - [Rede corporativa segmentada + SIEM](https://github.com/Lucaswm09/Home-Lab/blob/main/Home-Lab.md)
 - <b>Linux</b>
   - [Praticando permissões em linha de comando Linux](https://github.com/Lucaswm09/Projetos/blob/main/Permiss%C3%B5es_em_Linux.md)
 - <b>SQL</b>
