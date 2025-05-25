@@ -1,10 +1,4 @@
-<h1>Olá, eu sou o Lucas! <br/><a href="https://www.linkedin.com/in/lucasmend0nca/">Analista de Cibersegurança</a>
-
-
-<h2>🤔 Objetivo desta página:</h2>
-
-- Em uma jornada de aprendizagem, é comum nos desafiarmos e realizarmos atividades para praticarmos o que aprendemos. Este perfil tem como objetivo demonstrar alguns dos exercícios práticos realizados por mim.
-
+Em uma jornada de aprendizagem, é comum nos desafiarmos e realizarmos atividades para praticarmos o que aprendemos. Este perfil tem como objetivo demonstrar alguns dos exercícios práticos realizados por mim.
 
 
 <h2>👨‍💻 Projetos:</h2>
@@ -18,14 +12,7 @@
 - <b>Atualizando arquivo com Python</b>
   - [Atualização de um arquivo utilizando algorítmo em Python](https://github.com/Lucaswm09/Projetos/blob/main/Atualizando_arquivo_com_algoritmo_em_Python.md)
 
-<h2>📄 Certificados em Destaque:</h2>
 
-- [Comptia Security+](https://www.credly.com/badges/dc7e8e86-676e-4a8b-9c15-b4a4559a75c4/linked_in_profile)
-- [Google Cybersecurity Certificate](https://coursera.org/verify/professional-cert/V4P3T2M2ETEZ)
-- [Fundamentos de Governança de TI com COBIT 2019](https://www.udemy.com/certificate/UC-c033cde2-c0ea-47de-8136-de61075900cd/)
-- [Microsoft Windows Defender and Firewall for Beginners](https://www.coursera.org/account/accomplishments/certificate/8JDUJ8H7WFHW)
-- [Analyze Network Traffic with TCPDump](https://coursera.org/verify/UBHB5QCV8QHY)
-- [Fundamentos em Redes](https://certs.ibsec.com.br/?cert_hash=3e52a87b198470b1)
 
 <h2> 🤳 Conecte-se comigo:</h2>
 
